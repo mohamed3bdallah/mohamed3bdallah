@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm MOhamed Abdallah</h1>
+
+<h1 align="center">Hi 👋, I'm Mohamed Abdallah</h1>
 <h3 align="center">frontend developer </h3>
 <h4> I'm a front-end developer with a background in user experience design. I began by creating intuitive digital interfaces and later transitioned into development to bring those designs to life with clean, responsive code.<h4>
 
